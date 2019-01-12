@@ -6,7 +6,7 @@ const Header = props => {
     <nav>
       <div className='nav-wrapper light-blue darken-3'>
         <a href='false' className='brand-logo center'>
-          {props.titulo} - Creado por Lorgiam Arce Castaño con ReactJS
+          {props.titulo} - Creado por Lorgiam Arce con ReactJS
         </a>
       </div>
     </nav>
